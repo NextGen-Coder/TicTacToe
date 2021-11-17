@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="win_animation">https://kapwi.ng/c/xYxSsUvS</string>
+    <string name="lost_message">You Lost</string>
+    <string name="won_message">You Won</string>
+    <string name="play_single_player_btn">Play Single Player</string>
+    <string name="start_game_btn">Start Game</string>
+    <string name="draw_message">Match Draw</string>
+</resources>
